@@ -10,8 +10,8 @@ Projeto de uma Calculadora Basica.
 
 > Calculadora/ .. 
 >
->>*src/* .. <- Somente o arquivo de código fonte (.c) principal,  com int main(void);
+>>*src/* .. <- Código fonte (.c) principal, com int main(void);
 >
->>*include/* .. <- Somente os arquivos de header (.h) criados no projeto;
+>>*include/* .. <- Protótipos (.h);
 >
->>*lib/* .. <- Somente os arquivos de código fonte das funções e procedimentos (.c)
+>>*lib/* .. <- Dois códigos fonte: *controle (.c)* e *operacoes (.c)*
